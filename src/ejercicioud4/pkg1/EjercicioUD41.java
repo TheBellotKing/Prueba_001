@@ -1,4 +1,4 @@
- //-------------------------------------------------------------------------------------------
+﻿ //-------------------------------------------------------------------------------------------
  // Objeto del programa: Programa que pregunta por un número y dice si es par o impar.
  // Autor: Alessandro Cardin Feijoo
  // Fecha: 17/01/2018
@@ -8,7 +8,7 @@ package ejercicioud4.pkg1;
 
 public class EjercicioUD41 {
 
-
+    // Añadimos aquí cosas y mas cosas
     public static void main(String[] args) {
         
         // Declaramos las variables
